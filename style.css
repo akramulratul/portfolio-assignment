@@ -34,9 +34,9 @@ section{
 }
 .link-button{
     text-decoration: none;
-    background-image: linear-gradient(lightSalmon,orange);
+    background-image: #F96E61;
     font-size: medium;
-    background-color: orange;
+    background-color: #F96E61;
     padding: 10px 20px;
     border-radius: 10px;
     color: white;
@@ -51,4 +51,13 @@ section{
     background-image: url("images/dream-bg.png");
     background-repeat: no-repeat;
     background-position: right;
+}
+.last{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#finish-line
+{
+    text-align: center;
 }
