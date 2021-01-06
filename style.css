@@ -77,7 +77,6 @@ section{
 }
 #black{
     color: white;
-    position: absolute;
 }
 #pic{
     position: absolute;
@@ -86,6 +85,16 @@ footer p{
     text-align: center;
     
 }
-.emni{
+.background h2{
+    float: left;
+    display: block;
 
+}
+.heading{
+    float :left;
+    margin-left: 5%;
+}
+.button a{
+    margin: 15%;
+    
 }
